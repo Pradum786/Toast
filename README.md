@@ -24,10 +24,20 @@ A lightweight and customizable **Android Toast Library** with queue support, swi
 
 ## 📸 Preview
 
-![Screenshot_2026-03-28-16-23-00-11_0799e9f27d852dcf2d7eec7186d8e8fb](https://github.com/user-attachments/assets/61fad39d-dcdf-43a0-8eb9-8bd1a2733ddd)
-![Screenshot_2026-03-28-16-23-07-31_0799e9f27d852dcf2d7eec7186d8e8fb](https://github.com/user-attachments/assets/46986481-507f-48d2-81fe-e7b3f4d253cc)
-![Screenshot_2026-03-28-16-23-12-37_0799e9f27d852dcf2d7eec7186d8e8fb](https://github.com/user-attachments/assets/da9b106c-fab2-4841-aec4-9c36f93a379d)
-![Screenshot_2026-03-28-16-22-55-85_0799e9f27d852dcf2d7eec7186d8e8fb](https://github.com/user-attachments/assets/0ea5b937-aff1-4ab5-b2c3-7d0051fa0800)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ea5b937-aff1-4ab5-b2c3-7d0051fa0800" width="22%" />
+  <img src="https://github.com/user-attachments/assets/61fad39d-dcdf-43a0-8eb9-8bd1a2733ddd" width="22%" />
+  <img src="https://github.com/user-attachments/assets/46986481-507f-48d2-81fe-e7b3f4d253cc" width="22%" />
+  <img src="https://github.com/user-attachments/assets/da9b106c-fab2-4841-aec4-9c36f93a379d" width="22%" />
+</p>
+
+<p align="center">
+  <b>Success</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Error</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Info</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Warning</b>
+</p>
+
 
 ---
 
