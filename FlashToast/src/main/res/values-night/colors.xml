@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FF121417</color>
+
+    <!--  Toast Success (Dark)  -->
+    <color name="successText">#00E475</color>
+    <color name="successSubText">#CC00E475</color>
+    <color name="successBg">#1A1C1F</color>
+    <color name="successBeem">#00E475</color>
+    <color name="successIconBg">#1E2A24</color>
+    <color name="successIcon">#00E475</color>
+
+    <!--  Toast Error (Dark)  -->
+    <color name="errorText">#FF5252</color>
+    <color name="errorSubText">#CCFF5252</color>
+    <color name="errorBg">#1A1C1F</color>
+    <color name="errorBeem">#FF5252</color>
+    <color name="errorIconBg">#2A1E1E</color>
+    <color name="errorIcon">#FF5252</color>
+
+    <!--  Toast Warning (Dark)  -->
+    <color name="warningText">#FFB300</color>
+    <color name="warningSubText">#CCFFB300</color>
+    <color name="warningBg">#1A1C1F</color>
+    <color name="warningBeem">#FFB300</color>
+    <color name="warningIconBg">#2A261E</color>
+    <color name="warningIcon">#FFB300</color>
+
+    <!--  Toast Info (Dark)  -->
+    <color name="infoText">#2563EB</color>
+    <color name="infoSubText">#CC2563EB</color>
+    <color name="infoBg">#1A1C1F</color>
+    <color name="infoBeem">#2563EB</color>
+    <color name="infoIconBg">#1E222A</color>
+    <color name="infoIcon">#2563EB</color>
+
+
+</resources>
