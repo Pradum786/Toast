@@ -139,13 +139,13 @@ Shows remaining toast duration and pauses on touch.
 **Pradum**
 
 ---
-
+<!--
 ## 📄 License
 
 MIT License
 
 ---
-
+-->
 ## ⭐ Support
 
 If you like this project, please ⭐ the repo!
