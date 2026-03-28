@@ -25,19 +25,11 @@ A lightweight and customizable **Android Toast Library** with queue support, swi
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ea5b937-aff1-4ab5-b2c3-7d0051fa0800" width="45%" />
-  <img src="https://github.com/user-attachments/assets/61fad39d-dcdf-43a0-8eb9-8bd1a2733ddd" width="45%" />
-  <img src="https://github.com/user-attachments/assets/46986481-507f-48d2-81fe-e7b3f4d253cc" width="45%" />
-  <img src="https://github.com/user-attachments/assets/da9b106c-fab2-4841-aec4-9c36f93a379d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0ea5b937-aff1-4ab5-b2c3-7d0051fa0800" width="25%" />
+  <img src="https://github.com/user-attachments/assets/61fad39d-dcdf-43a0-8eb9-8bd1a2733ddd" width="25%" />
+  <img src="https://github.com/user-attachments/assets/46986481-507f-48d2-81fe-e7b3f4d253cc" width="25%" />
+  <img src="https://github.com/user-attachments/assets/da9b106c-fab2-4841-aec4-9c36f93a379d" width="25%" />
 </p>
-
-<p align="center">
-  <b>Success</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Error</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Info</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Warning</b>
-</p>
-
 
 ---
 
