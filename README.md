@@ -1,4 +1,4 @@
-# Toast
+# FLASHTOAST
 # 🚀 FlashToast Library
 
 A lightweight and customizable **Android Toast Library** with queue support, swipe dismiss, progress bar, and multiple types like **Success, Error, Info, Warning**.
